@@ -55,7 +55,7 @@ samples, guidance on mobile development, and a full API reference.
     ```
   - Now download this [Repo](https://github.com/vaishnavirshah/TLE/tree/master)
     ```
-    git clone
+    git clone URL
     ```
    
   - Extract the Repo into your newly created **sahara** and replace the required files.
@@ -93,7 +93,7 @@ Check the apk files included in this Repo. Install them on your device to test i
 So maybe if we can integrate exisiting companies' APIs,it can be a great milestone.
 
 ## Screenshots 
-[Screenshots](https://drive.google.com/drive/folders/1yZX85kJPIOGq_zB1D4-FKNV6EQ_Zc7Cr?usp=sharing)
+
 
 ## ScreenRecording
 [ScreenRecording](https://drive.google.com/drive/folders/1-nY6M72Vs5cjbt_TmvYYkkc6FPmh5xX1?usp=sharing)
