@@ -71,6 +71,9 @@ samples, guidance on mobile development, and a full API reference.
     ![Firebase_Example_04](https://github.com/vaishnavirshah/TLE/blob/master/Screenshot%20(122).png)
    
   - Now you can Finally run VS-Code or Android Studio whichever you prefer and get the flutter packages and just run the App.
+  ```
+  flutter run
+  ```
   
 # Download the APK
 
