@@ -85,7 +85,7 @@ Check the apk files included in this Repo. Install them on your device to test i
 >We ouserlves feel the need of a automated delivery system.It might happen that the Receivers do not have the required resources to reach out the location and pickup food.
 So maybe if we can integrate exisiting companies' APIs,it can be a great milestone.
 
-## Screenshots and 
+## Screenshots 
 [Screenshots](https://drive.google.com/drive/u/0/folders/1yZX85kJPIOGq_zB1D4-FKNV6EQ_Zc7Cr)
 
 ## ScreenRecording
