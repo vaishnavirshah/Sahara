@@ -5,7 +5,7 @@
 ## Team members
 * Siddharth Shah siddharthsshah1207@gmail.com
 * Bhavya Mehta bhavyabhai24@gmail.com
-* Vaishnavi Shah vaishnavirshah@gmail.com
+* Vaishnavi Shah vaishnavirahulshah@gmail.com
 * Dhruvin Gandhi dhruvingandhi5@gmail.com
 
 ## Mentors
