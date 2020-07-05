@@ -72,7 +72,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Check the apk files included in this Repo. Install them on your device to test it.
 
-  [Download App APK](https://drive.google.com/drive/u/0/folders/1JQmotPG7ITyEo4Vmhv_Fa6DmvM8bDBL7)
+  [Download App APK](https://drive.google.com/file/d/15I7i4rjlqgggFRBI2VwU6Exhkj-94TgR/view?usp=sharing)
 - Install the google_services.json file as mentioned in the tutorial
  
 ## Usage
@@ -86,9 +86,9 @@ Check the apk files included in this Repo. Install them on your device to test i
 So maybe if we can integrate exisiting companies' APIs,it can be a great milestone.
 
 ## Screenshots 
-[Screenshots](https://drive.google.com/drive/u/0/folders/1yZX85kJPIOGq_zB1D4-FKNV6EQ_Zc7Cr)
+[Screenshots](https://drive.google.com/drive/folders/1yZX85kJPIOGq_zB1D4-FKNV6EQ_Zc7Cr?usp=sharing)
 
 ## ScreenRecording
-[ScreenRecording](https://drive.google.com/drive/u/0/folders/1-nY6M72Vs5cjbt_TmvYYkkc6FPmh5xX1)
+[ScreenRecording](https://drive.google.com/drive/folders/1-nY6M72Vs5cjbt_TmvYYkkc6FPmh5xX1?usp=sharing)
 
 
