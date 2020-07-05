@@ -54,6 +54,9 @@ samples, guidance on mobile development, and a full API reference.
     flutter create sahara
     ```
   - Now download this [Repo](https://github.com/vaishnavirshah/TLE/tree/master)
+    ```
+    git clone
+    ```
    
   - Extract the Repo into your newly created **sahara** and replace the required files.
   - Now go to [Firebase](https://console.firebase.google.com/) and start a new project. Follow these [guidelines](https://firebase.google.com/docs/android/setup) here and paste the file **google-services.json** from there into your project. (We are doing this just for Android Platform)
